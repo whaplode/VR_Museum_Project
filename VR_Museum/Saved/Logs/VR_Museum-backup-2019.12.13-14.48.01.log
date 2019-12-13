@@ -1,0 +1,1378 @@
+﻿Log file open, 12/13/19 14:22:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VR_Museum
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.208645
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 7 1700X Eight-Core Processor         , GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: F:/unreal engine 2.23/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.13-14.22.39:305][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.13-14.22.39:305][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.13-14.22.39:305][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Engine.ini]
+[2019.12.13-14.22.39:305][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.13-14.22.39:305][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.12.13-14.22.39:305][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.12.13-14.22.39:305][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Engine.ini]
+[2019.12.13-14.22.39:306][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Engine.ini]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Engine.ini]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.13-14.22.39:306][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Engine.ini]
+[2019.12.13-14.22.39:306][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Engine.ini]
+[2019.12.13-14.22.39:310][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.13-14.22.39:310][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.13-14.22.39:311][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.13-14.22.39:311][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.39:311][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.12.13-14.22.39:311][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.13-14.22.39:311][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.12.13-14.22.39:311][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.12.13-14.22.39:311][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.13-14.22.39:311][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.12.13-14.22.39:311][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.13-14.22.39:311][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.13-14.22.39:311][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.13-14.22.39:311][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.13-14.22.39:311][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.13-14.22.39:311][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.13-14.22.39:311][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.13-14.22.39:311][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.39:311][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.13-14.22.39:311][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.13-14.22.39:311][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.13-14.22.39:311][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.13-14.22.39:315][  0]LogHAL: Display: Platform has ~ 16 GB [17107066880 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.13-14.22.39:315][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.13-14.22.39:315][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.13-14.22.39:315][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.13-14.22.39:316][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Config/Windows/Engine.ini]
+[2019.12.13-14.22.39:316][  0]LogInit: Computer: DESKTOP-AGAPUGG
+[2019.12.13-14.22.39:316][  0]LogInit: User: kiera
+[2019.12.13-14.22.39:317][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.12.13-14.22.39:317][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.13-14.22.39:317][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.12.13-14.22.39:317][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.13-14.22.39:317][  0]LogMemory: Process Physical Memory: 110.35 MB used, 110.36 MB peak
+[2019.12.13-14.22.39:317][  0]LogMemory: Process Virtual Memory: 109.88 MB used, 109.88 MB peak
+[2019.12.13-14.22.39:317][  0]LogMemory: Physical Memory: 9074.99 MB used,  7239.58 MB free, 16314.57 MB total
+[2019.12.13-14.22.39:317][  0]LogMemory: Virtual Memory: 4734.13 MB used,  134212992.00 MB free, 134217728.00 MB total
+[2019.12.13-14.22.39:321][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.13-14.22.39:958][  0]LogInit: Using OS detected language (en-GB).
+[2019.12.13-14.22.39:958][  0]LogInit: Using OS detected locale (en-GB).
+[2019.12.13-14.22.39:962][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.12.13-14.22.40:147][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.13-14.22.40:222][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.13-14.22.40:223][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.13-14.22.40:523][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.13-14.22.40:764][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.12.13-14.22.40:764][  0]LogD3D11RHI:       8010/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.13-14.22.40:768][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.13-14.22.40:768][  0]LogD3D11RHI:       0/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.13-14.22.40:768][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.13-14.22.40:780][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.13-14.22.40:780][  0]LogD3D11RHI:     GPU DeviceId: 0x1e82 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.13-14.22.40:780][  0]LogWindows: EnumDisplayDevices:
+[2019.12.13-14.22.40:780][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2019.12.13-14.22.40:781][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.12.13-14.22.40:781][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.12.13-14.22.40:782][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.12.13-14.22.40:782][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.13-14.22.40:782][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.12.13-14.22.40:782][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.12.13-14.22.40:782][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.12.13-14.22.40:782][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.12.13-14.22.40:847][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.13-14.22.40:867][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.13-14.22.41:777][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.13-14.22.41:811][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.13-14.22.41:846][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.13-14.22.41:881][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.13-14.22.41:918][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.13-14.22.41:953][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.13-14.22.41:988][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.13-14.22.42:024][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.13-14.22.42:055][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.13-14.22.42:117][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.13-14.22.42:117][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.13-14.22.42:117][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.13-14.22.42:117][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.13-14.22.42:117][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.13-14.22.42:117][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.13-14.22.42:117][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.13-14.22.42:118][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.13-14.22.42:118][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.13-14.22.42:118][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.13-14.22.42:118][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.13-14.22.42:118][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.13-14.22.42:118][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.13-14.22.42:118][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.13-14.22.42:118][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.13-14.22.42:118][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.13-14.22.42:118][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.13-14.22.42:118][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.13-14.22.42:141][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.13-14.22.42:237][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.13-14.22.42:237][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.13-14.22.42:274][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.13-14.22.42:274][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.13-14.22.42:304][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.13-14.22.42:333][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.13-14.22.42:364][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.13-14.22.42:396][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.13-14.22.42:452][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.13-14.22.42:452][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.13-14.22.42:452][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.13-14.22.42:702][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.13-14.22.43:612][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Intermediate/Shaders/WorkingDirectory/12384/).
+[2019.12.13-14.22.43:613][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kiera/AppData/Local/Temp/UnrealShaderWorkingDir/C61E7EF44A4822ED35083F87D5F905A3/'.
+[2019.12.13-14.22.43:619][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.13-14.22.43:620][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.13-14.22.43:620][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.13-14.22.44:341][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.13-14.22.44:392][  0]LogDerivedDataCache: Loaded boot cache 0.05s 76MB C:/Users/kiera/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.13-14.22.44:392][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kiera/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.13-14.22.44:392][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.13-14.22.44:392][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.13-14.22.44:392][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.13-14.22.44:392][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.13-14.22.44:405][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.13-14.22.44:405][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.13-14.22.44:405][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.13-14.22.44:407][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kiera/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.13-14.22.44:407][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.13-14.22.44:407][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.13-14.22.44:592][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.13-14.22.44:596][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.13-14.22.44:596][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.13-14.22.44:756][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2019.12.13-14.22.45:058][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.13-14.22.45:774][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.13-14.22.45:774][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.13-14.22.45:774][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.13-14.22.45:774][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.13-14.22.45:774][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.13-14.22.45:790][  0]LogNetVersion: VR_Museum 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1300939554)
+[2019.12.13-14.22.46:449][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.080826 seconds
+[2019.12.13-14.22.46:460][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.13-14.22.46:460][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.13-14.22.46:460][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.13-14.22.50:738][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.13-14.22.50:787][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.13-14.22.51:379][  0]SourceControl: Source control is disabled
+[2019.12.13-14.22.51:379][  0]SourceControl: Source control is disabled
+[2019.12.13-14.22.51:498][  0]SourceControl: Source control is disabled
+[2019.12.13-14.22.51:533][  0]SourceControl: Source control is disabled
+[2019.12.13-14.22.52:955][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.13-14.22.53:980][  0]LogOcInput: OculusInput pre-init called
+[2019.12.13-14.22.55:785][  0]LogEngine: Initializing Engine...
+[2019.12.13-14.22.55:786][  0]LogHMD: Oculus plugin initialized. Version: 4.23.1-9631420+++UE4+Release-4.23, OVRPlugin: 1.37.0
+[2019.12.13-14.22.55:788][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.12.13-14.22.56:124][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.13-14.22.56:200][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.13-14.22.56:373][  0]LogInit: XAudio2 using 'C24FG7x (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-14.22.56:423][  0]LogInit: FAudioDevice initialized.
+[2019.12.13-14.22.56:423][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.13-14.22.56:538][  0]LogDerivedDataCache: Saved boot cache 0.12s 93MB C:/Users/kiera/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.13-14.22.56:548][  0]LogInit: Texture streaming: Enabled
+[2019.12.13-14.22.56:671][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.13-14.22.56:671][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.13-14.22.56:672][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.13-14.22.56:769][  0]LogInit: Transaction tracking system initialized
+[2019.12.13-14.22.57:017][  0]BlueprintLog: New page: Editor Load
+[2019.12.13-14.22.57:622][  0]LocalizationService: Localization service is disabled
+[2019.12.13-14.22.58:333][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/' took 0.01s
+[2019.12.13-14.22.58:333][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.13-14.22.58:333][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.13-14.22.59:587][  0]SourceControl: Source control is disabled
+[2019.12.13-14.22.59:589][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 F:/unreal engine 2.23/UE_4.23/FeaturePacks/StarterContent.upack)
+[2019.12.13-14.22.59:659][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2019.12.13-14.22.59:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2019.12.13-14.22.59:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2019.12.13-14.22.59:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2019.12.13-14.22.59:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2019.12.13-14.22.59:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2019.12.13-14.22.59:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2019.12.13-14.22.59:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2019.12.13-14.22.59:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2019.12.13-14.22.59:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2019.12.13-14.22.59:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2019.12.13-14.22.59:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2019.12.13-14.22.59:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Collapse01.uasset"
+[2019.12.13-14.22.59:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Collapse02.uasset"
+[2019.12.13-14.22.59:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2019.12.13-14.22.59:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Explosion01.uasset"
+[2019.12.13-14.22.59:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Explosion02.uasset"
+[2019.12.13-14.22.59:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2019.12.13-14.22.59:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Fire01.uasset"
+[2019.12.13-14.22.59:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2019.12.13-14.22.59:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2019.12.13-14.22.59:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2019.12.13-14.22.59:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Light01.uasset"
+[2019.12.13-14.22.59:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2019.12.13-14.22.59:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Light02.uasset"
+[2019.12.13-14.22.59:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2019.12.13-14.22.59:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Smoke01.uasset"
+[2019.12.13-14.22.59:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2019.12.13-14.22.59:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2019.12.13-14.23.00:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2019.12.13-14.23.00:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2019.12.13-14.23.00:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2019.12.13-14.23.00:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2019.12.13-14.23.00:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2019.12.13-14.23.00:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Steam01.uasset"
+[2019.12.13-14.23.00:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2019.12.13-14.23.00:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2019.12.13-14.23.00:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2019.12.13-14.23.00:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2019.12.13-14.23.00:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2019.12.13-14.23.00:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2019.12.13-14.23.00:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2019.12.13-14.23.00:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2019.12.13-14.23.00:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2019.12.13-14.23.00:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2019.12.13-14.23.00:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2019.12.13-14.23.00:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2019.12.13-14.23.00:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2019.12.13-14.23.00:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2019.12.13-14.23.00:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2019.12.13-14.23.00:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2019.12.13-14.23.00:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2019.12.13-14.23.01:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2019.12.13-14.23.01:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2019.12.13-14.23.01:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2019.12.13-14.23.01:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Maps/Minimal_Default.umap"
+[2019.12.13-14.23.01:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2019.12.13-14.23.01:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Maps/StarterMap.umap"
+[2019.12.13-14.23.01:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2019.12.13-14.23.01:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2019.12.13-14.23.01:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2019.12.13-14.23.01:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2019.12.13-14.23.01:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2019.12.13-14.23.01:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2019.12.13-14.23.01:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2019.12.13-14.23.01:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2019.12.13-14.23.01:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2019.12.13-14.23.01:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2019.12.13-14.23.01:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2019.12.13-14.23.01:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2019.12.13-14.23.01:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2019.12.13-14.23.01:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2019.12.13-14.23.01:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2019.12.13-14.23.01:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2019.12.13-14.23.01:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2019.12.13-14.23.01:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2019.12.13-14.23.01:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Glass.uasset"
+[2019.12.13-14.23.01:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2019.12.13-14.23.01:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2019.12.13-14.23.01:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2019.12.13-14.23.01:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2019.12.13-14.23.01:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2019.12.13-14.23.01:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2019.12.13-14.23.01:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2019.12.13-14.23.01:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2019.12.13-14.23.01:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2019.12.13-14.23.01:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2019.12.13-14.23.01:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2019.12.13-14.23.01:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2019.12.13-14.23.01:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2019.12.13-14.23.01:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2019.12.13-14.23.01:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2019.12.13-14.23.01:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2019.12.13-14.23.01:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2019.12.13-14.23.01:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2019.12.13-14.23.01:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2019.12.13-14.23.01:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2019.12.13-14.23.01:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2019.12.13-14.23.01:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2019.12.13-14.23.01:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2019.12.13-14.23.01:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2019.12.13-14.23.01:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2019.12.13-14.23.01:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2019.12.13-14.23.01:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Particles/P_Explosion.uasset"
+[2019.12.13-14.23.01:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Particles/P_Fire.uasset"
+[2019.12.13-14.23.01:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Particles/P_Smoke.uasset"
+[2019.12.13-14.23.01:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Particles/P_Sparks.uasset"
+[2019.12.13-14.23.01:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2019.12.13-14.23.01:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2019.12.13-14.23.01:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2019.12.13-14.23.01:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2019.12.13-14.23.01:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2019.12.13-14.23.01:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2019.12.13-14.23.01:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2019.12.13-14.23.01:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2019.12.13-14.23.01:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2019.12.13-14.23.01:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2019.12.13-14.23.01:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2019.12.13-14.23.01:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/MaterialSphere.uasset"
+[2019.12.13-14.23.01:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/SM_Bush.uasset"
+[2019.12.13-14.23.01:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/SM_Chair.uasset"
+[2019.12.13-14.23.01:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2019.12.13-14.23.01:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/SM_Couch.uasset"
+[2019.12.13-14.23.01:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/SM_Door.uasset"
+[2019.12.13-14.23.01:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2019.12.13-14.23.01:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2019.12.13-14.23.01:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2019.12.13-14.23.01:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2019.12.13-14.23.01:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2019.12.13-14.23.01:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2019.12.13-14.23.01:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2019.12.13-14.23.02:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/SM_Rock.uasset"
+[2019.12.13-14.23.02:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/SM_Shelf.uasset"
+[2019.12.13-14.23.02:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/SM_Stairs.uasset"
+[2019.12.13-14.23.02:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/SM_Statue.uasset"
+[2019.12.13-14.23.02:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/SM_TableRound.uasset"
+[2019.12.13-14.23.02:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2019.12.13-14.23.02:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2019.12.13-14.23.02:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2019.12.13-14.23.02:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2019.12.13-14.23.02:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2019.12.13-14.23.02:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2019.12.13-14.23.02:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2019.12.13-14.23.02:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2019.12.13-14.23.02:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2019.12.13-14.23.02:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2019.12.13-14.23.02:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2019.12.13-14.23.02:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2019.12.13-14.23.02:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2019.12.13-14.23.02:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2019.12.13-14.23.02:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2019.12.13-14.23.02:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2019.12.13-14.23.02:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2019.12.13-14.23.02:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2019.12.13-14.23.02:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2019.12.13-14.23.02:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2019.12.13-14.23.02:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2019.12.13-14.23.02:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2019.12.13-14.23.02:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2019.12.13-14.23.02:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2019.12.13-14.23.02:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2019.12.13-14.23.02:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2019.12.13-14.23.02:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2019.12.13-14.23.02:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2019.12.13-14.23.02:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2019.12.13-14.23.02:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2019.12.13-14.23.02:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2019.12.13-14.23.02:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2019.12.13-14.23.02:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2019.12.13-14.23.02:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2019.12.13-14.23.02:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2019.12.13-14.23.02:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2019.12.13-14.23.02:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2019.12.13-14.23.02:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2019.12.13-14.23.02:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2019.12.13-14.23.02:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2019.12.13-14.23.02:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2019.12.13-14.23.03:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2019.12.13-14.23.03:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2019.12.13-14.23.03:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2019.12.13-14.23.03:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2019.12.13-14.23.03:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2019.12.13-14.23.03:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2019.12.13-14.23.03:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2019.12.13-14.23.03:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2019.12.13-14.23.03:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2019.12.13-14.23.03:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2019.12.13-14.23.03:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2019.12.13-14.23.03:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2019.12.13-14.23.03:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2019.12.13-14.23.03:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2019.12.13-14.23.03:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2019.12.13-14.23.03:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2019.12.13-14.23.03:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2019.12.13-14.23.03:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2019.12.13-14.23.03:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2019.12.13-14.23.03:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2019.12.13-14.23.03:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2019.12.13-14.23.04:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2019.12.13-14.23.04:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2019.12.13-14.23.04:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2019.12.13-14.23.04:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2019.12.13-14.23.04:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2019.12.13-14.23.04:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2019.12.13-14.23.04:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2019.12.13-14.23.04:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2019.12.13-14.23.04:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2019.12.13-14.23.04:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Door_M.uasset"
+[2019.12.13-14.23.04:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Door_N.uasset"
+[2019.12.13-14.23.04:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2019.12.13-14.23.04:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2019.12.13-14.23.04:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2019.12.13-14.23.04:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2019.12.13-14.23.04:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2019.12.13-14.23.04:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2019.12.13-14.23.04:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2019.12.13-14.23.04:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2019.12.13-14.23.04:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2019.12.13-14.23.04:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2019.12.13-14.23.04:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2019.12.13-14.23.05:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2019.12.13-14.23.05:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2019.12.13-14.23.05:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2019.12.13-14.23.05:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2019.12.13-14.23.05:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2019.12.13-14.23.05:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2019.12.13-14.23.05:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2019.12.13-14.23.05:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2019.12.13-14.23.05:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2019.12.13-14.23.05:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2019.12.13-14.23.05:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2019.12.13-14.23.05:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2019.12.13-14.23.05:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2019.12.13-14.23.05:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2019.12.13-14.23.06:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2019.12.13-14.23.06:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2019.12.13-14.23.06:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2019.12.13-14.23.06:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2019.12.13-14.23.06:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2019.12.13-14.23.06:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2019.12.13-14.23.06:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2019.12.13-14.23.06:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2019.12.13-14.23.06:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2019.12.13-14.23.06:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2019.12.13-14.23.06:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2019.12.13-14.23.06:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2019.12.13-14.23.06:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2019.12.13-14.23.06:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2019.12.13-14.23.07:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2019.12.13-14.23.07:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2019.12.13-14.23.07:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2019.12.13-14.23.07:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2019.12.13-14.23.07:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2019.12.13-14.23.07:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2019.12.13-14.23.07:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2019.12.13-14.23.07:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2019.12.13-14.23.07:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2019.12.13-14.23.07:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2019.12.13-14.23.07:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2019.12.13-14.23.07:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2019.12.13-14.23.07:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Water_M.uasset"
+[2019.12.13-14.23.07:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Water_N.uasset"
+[2019.12.13-14.23.07:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2019.12.13-14.23.07:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2019.12.13-14.23.07:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2019.12.13-14.23.07:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2019.12.13-14.23.07:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2019.12.13-14.23.07:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2019.12.13-14.23.07:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2019.12.13-14.23.07:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2019.12.13-14.23.07:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2019.12.13-14.23.07:698][  0]LogMaterial: Display: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2019.12.13-14.23.07:877][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 31
+[2019.12.13-14.23.07:877][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 28
+[2019.12.13-14.23.07:877][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 25
+[2019.12.13-14.23.07:877][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 22
+[2019.12.13-14.23.07:877][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 19
+[2019.12.13-14.23.07:877][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2019.12.13-14.23.07:877][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2019.12.13-14.23.07:877][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2019.12.13-14.23.07:877][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2019.12.13-14.23.07:877][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2019.12.13-14.23.07:877][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2019.12.13-14.23.08:037][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 26 NumSamples 1 (Frame:1).
+[2019.12.13-14.23.08:395][  0]LogSavePackage: Moving 'C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Floor_400x400554D9A4F49D74F5A2375AABF0D53B5CD.tmp' to 'C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2019.12.13-14.23.08:400][  0]LogFeaturePack: Warning: Inserted 2 feature packs
+[2019.12.13-14.23.08:401][  0]Cmd: MAP LOAD FILE="C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.13-14.23.08:402][  0]LightingResults: New page: Lighting Build
+[2019.12.13-14.23.08:414][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-14.23.08:415][  0]MapCheck: New page: Map Check
+[2019.12.13-14.23.08:415][  0]LightingResults: New page: Lighting Build
+[2019.12.13-14.23.08:461][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.12.13-14.23.08:717][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2019.12.13-14.23.08:717][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 256X256)
+[2019.12.13-14.23.08:717][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2019.12.13-14.23.08:717][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2019.12.13-14.23.08:844][  0]LogMaterial: Display: Missing cached shader map for material M_TeleportPreviews, compiling. 
+[2019.12.13-14.23.08:916][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 20
+[2019.12.13-14.23.08:916][  0]LogShaderCompilers: Display: Worker (13/13): shaders left to compile 18
+[2019.12.13-14.23.08:916][  0]LogMaterial: Display: Missing cached shader map for material M_BaseMaterial, compiling. 
+[2019.12.13-14.23.08:982][  0]LogMaterial: Display: Missing cached shader map for material M_HandMat, compiling. 
+[2019.12.13-14.23.09:093][  0]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2019.12.13-14.23.09:187][  0]LogMaterial: Display: Missing cached shader map for material GenericHMDMaterial, compiling. 
+[2019.12.13-14.23.09:210][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.12.13-14.23.09:298][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.13-14.23.09:344][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.12.13-14.23.09:344][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.13-14.23.09:345][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.75ms to complete.
+[2019.12.13-14.23.09:345][  0]LogFileHelpers: Loading map 'StartupMap' took 0.944
+[2019.12.13-14.23.09:796][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-14.23.09:815][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-14.23.09:829][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-14.23.09:839][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-14.23.09:967][  0]LogCollectionManager: Loaded 0 collections in 0.009784 seconds
+[2019.12.13-14.23.10:580][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Collections/' took 0.00s
+[2019.12.13-14.23.10:581][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/Developers/kiera/Collections/' took 0.00s
+[2019.12.13-14.23.10:581][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/Collections/' took 0.00s
+[2019.12.13-14.23.10:581][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
+[2019.12.13-14.23.10:601][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 219
+[2019.12.13-14.23.10:601][  0]LogContentBrowser: Native class hierarchy populated in 0.0198 seconds. Added 2863 classes and 680 folders.
+[2019.12.13-14.23.10:641][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.12.13-14.23.11:053][  0]LogShaderCompilers: Display: Worker (13/13): shaders left to compile 209
+[2019.12.13-14.23.11:053][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.12.13-14.23.11:184][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.12.13-14.23.11:222][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 199
+[2019.12.13-14.23.11:223][  0]LogSlate: Took 0.000615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.13-14.23.11:227][  0]LogSlate: Took 0.000943 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.13-14.23.11:277][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 189
+[2019.12.13-14.23.11:278][  0]LogSlate: Took 0.014276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.13-14.23.11:550][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 179
+[2019.12.13-14.23.11:550][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 169
+[2019.12.13-14.23.11:550][  0]LogRenderer: Reallocating scene render targets to support 1220x656 Format 26 NumSamples 1 (Frame:1).
+[2019.12.13-14.23.11:766][  0]LogSlate: Took 0.000521 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.13-14.23.12:714][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 159
+[2019.12.13-14.23.12:714][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2019.12.13-14.23.12:714][  0]LogLoad: (Engine Initialization) Total time: 42.07 seconds
+[2019.12.13-14.23.12:714][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.13-14.23.12:732][  0]LogOcInput: OculusInput is initialized
+[2019.12.13-14.23.13:352][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 149
+[2019.12.13-14.23.13:353][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 139
+[2019.12.13-14.23.13:353][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 129
+[2019.12.13-14.23.13:353][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.13-14.23.13:400][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 119
+[2019.12.13-14.23.14:004][  8]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 109
+[2019.12.13-14.23.14:109][ 10]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 99
+[2019.12.13-14.23.14:374][ 25]LogAssetRegistry: Asset discovery search completed in 29.6195 seconds
+[2019.12.13-14.23.14:383][ 25]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000017 seconds (found 0 objects)
+[2019.12.13-14.23.14:383][ 25]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000190 seconds (updated 0 objects)
+[2019.12.13-14.23.18:190][190]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 90
+[2019.12.13-14.23.18:325][197]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 82
+[2019.12.13-14.23.18:363][199]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 75
+[2019.12.13-14.23.18:446][203]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 68
+[2019.12.13-14.23.18:817][219]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 62
+[2019.12.13-14.23.20:361][295]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 56
+[2019.12.13-14.23.20:552][305]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 51
+[2019.12.13-14.23.21:380][339]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 46
+[2019.12.13-14.23.22:155][379]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 42
+[2019.12.13-14.23.22:552][398]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 38
+[2019.12.13-14.23.23:127][428]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 34
+[2019.12.13-14.23.23:546][448]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 31
+[2019.12.13-14.23.24:062][476]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 28
+[2019.12.13-14.23.26:646][602]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 25
+[2019.12.13-14.23.26:745][607]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 22
+[2019.12.13-14.23.27:145][630]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 20
+[2019.12.13-14.23.27:438][647]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 18
+[2019.12.13-14.23.27:584][656]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 16
+[2019.12.13-14.23.27:854][672]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2019.12.13-14.23.27:954][678]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2019.12.13-14.23.27:974][679]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.12.13-14.23.28:165][690]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2019.12.13-14.23.28:285][695]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2019.12.13-14.23.28:335][698]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2019.12.13-14.23.28:599][700]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2019.12.13-14.23.29:009][716]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2019.12.13-14.23.29:194][724]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2019.12.13-14.23.29:454][737]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2019.12.13-14.23.29:500][739]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2019.12.13-14.23.29:524][740]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2019.12.13-14.23.54:857][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.24.10:477][885]LogSlate: Window 'New Level' being destroyed
+[2019.12.13-14.24.10:486][885]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.13-14.24.10:491][885]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.13-14.24.10:503][885]LightingResults: New page: Lighting Build
+[2019.12.13-14.24.10:504][885]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.12.13-14.24.10:505][885]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-14.24.10:505][885]MapCheck: New page: Map Check
+[2019.12.13-14.24.10:506][885]LightingResults: New page: Lighting Build
+[2019.12.13-14.24.10:547][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.12.13-14.24.10:627][885]LogMaterial: Display: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2019.12.13-14.24.10:643][885]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2019.12.13-14.24.10:643][885]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2019.12.13-14.24.10:643][885]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2019.12.13-14.24.10:643][885]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2019.12.13-14.24.10:643][885]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2019.12.13-14.24.10:649][885]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.13-14.24.10:663][885]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.13-14.24.10:710][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.12.13-14.24.10:718][885]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.13-14.24.10:719][885]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.656ms to complete.
+[2019.12.13-14.24.10:719][885]LogFileHelpers: Loading map 'Template_Default' took 0.233
+[2019.12.13-14.24.15:905][190]LogSlate: Window 'Save Level As' being destroyed
+[2019.12.13-14.24.15:976][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.12.13-14.24.15:979][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.13-14.24.16:022][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.12.13-14.24.16:313][190]LogSavePackage: Moving 'C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/NewMapE5733A6441AE0BA11A71D2A098D49B06.tmp' to 'C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/NewMap.umap'
+[2019.12.13-14.24.16:328][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/NewMap_BuiltData.uasset" SILENT=true
+[2019.12.13-14.24.16:345][190]LogSavePackage: Moving 'C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/NewMap_BuiltDataC5A58F284A2DF40DEFD61FA412310BDC.tmp' to 'C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/NewMap_BuiltData.uasset'
+[2019.12.13-14.24.16:355][190]LogFileHelpers: Saving map 'NewMap' took 0.443
+[2019.12.13-14.24.17:724][351]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.13-14.24.19:911][582]LogSlate: Took 0.031350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.13-14.24.21:536][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.24.29:359][700]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.13-14.24.30:000][775]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.13-14.24.30:765][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.24.31:906][996]Cmd: DELETE
+[2019.12.13-14.24.31:906][996]Cmd: ACTOR DELETE
+[2019.12.13-14.24.31:964][996]LogEditorActor: Deleted Actor: AtmosphericFog
+[2019.12.13-14.24.32:008][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.12.13-14.24.32:009][996]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2019.12.13-14.24.33:595][184]Cmd: TRANSACTION UNDO
+[2019.12.13-14.24.33:595][184]LogEditorTransaction: Undo Delete Actors
+[2019.12.13-14.24.35:608][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.24.48:612][925]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.13-14.24.52:280][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.24.52:346][363]Cmd: MODE GRID=0
+[2019.12.13-14.25.04:196][738]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.13-14.25.05:975][943]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.13-14.25.06:533][ 10]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.13-14.25.06:908][ 55]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.13-14.25.08:658][261]Cmd: TRANSACTION UNDO
+[2019.12.13-14.25.08:658][261]LogEditorTransaction: Undo Scale Actors
+[2019.12.13-14.25.08:996][294]Cmd: TRANSACTION UNDO
+[2019.12.13-14.25.08:996][294]LogEditorTransaction: Undo Scale Actors
+[2019.12.13-14.25.09:311][325]Cmd: TRANSACTION UNDO
+[2019.12.13-14.25.09:311][325]LogEditorTransaction: Undo Scale Actors
+[2019.12.13-14.25.09:501][347]Cmd: TRANSACTION UNDO
+[2019.12.13-14.25.09:501][347]LogEditorTransaction: Undo Scale Actors
+[2019.12.13-14.25.09:655][365]Cmd: TRANSACTION UNDO
+[2019.12.13-14.25.09:655][365]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.13-14.25.09:835][384]Cmd: TRANSACTION UNDO
+[2019.12.13-14.25.09:836][384]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.13-14.25.10:178][422]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.13-14.25.13:443][811]Cmd: TRANSACTION UNDO
+[2019.12.13-14.25.13:443][811]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.13-14.25.13:770][829]Cmd: TRANSACTION UNDO
+[2019.12.13-14.25.13:770][829]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.13-14.25.15:189][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.25.21:169][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.25.25:874][230]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.13-14.25.32:454][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.25.35:206][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.25.39:843][880]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.13-14.25.40:828][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.25.55:530][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.26.35:527][750]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.13-14.26.39:845][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.26.40:150][289]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.13-14.26.47:518][161]Cmd: TRANSACTION UNDO
+[2019.12.13-14.26.47:518][161]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.13-14.26.47:717][174]Cmd: TRANSACTION UNDO
+[2019.12.13-14.26.47:717][174]LogEditorTransaction: Undo Set Scale
+[2019.12.13-14.26.47:881][184]Cmd: TRANSACTION UNDO
+[2019.12.13-14.26.47:881][184]LogEditorTransaction: Undo Set Scale
+[2019.12.13-14.26.48:026][193]Cmd: TRANSACTION UNDO
+[2019.12.13-14.26.48:026][193]LogEditorTransaction: Undo Set Scale
+[2019.12.13-14.26.48:178][210]Cmd: TRANSACTION UNDO
+[2019.12.13-14.26.48:178][210]LogEditorTransaction: Undo Set Scale
+[2019.12.13-14.26.48:348][230]Cmd: TRANSACTION UNDO
+[2019.12.13-14.26.48:348][230]LogEditorTransaction: Undo Set Scale
+[2019.12.13-14.26.48:494][247]Cmd: TRANSACTION UNDO
+[2019.12.13-14.26.48:494][247]LogEditorTransaction: Undo Set Scale
+[2019.12.13-14.26.48:647][265]Cmd: TRANSACTION UNDO
+[2019.12.13-14.26.48:647][265]LogEditorTransaction: Undo Set Scale
+[2019.12.13-14.26.48:809][284]Cmd: TRANSACTION UNDO
+[2019.12.13-14.26.48:809][284]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.13-14.26.48:967][299]Cmd: TRANSACTION UNDO
+[2019.12.13-14.26.48:967][299]LogEditorTransaction: Undo Set Scale
+[2019.12.13-14.26.49:126][316]Cmd: TRANSACTION UNDO
+[2019.12.13-14.26.49:126][316]LogEditorTransaction: Undo Set Scale
+[2019.12.13-14.26.49:288][335]Cmd: TRANSACTION UNDO
+[2019.12.13-14.26.49:288][335]LogEditorTransaction: Undo Set Scale
+[2019.12.13-14.26.49:450][354]Cmd: TRANSACTION UNDO
+[2019.12.13-14.26.49:450][354]LogEditorTransaction: Undo Scale Actors
+[2019.12.13-14.26.49:595][370]Cmd: TRANSACTION UNDO
+[2019.12.13-14.26.49:595][370]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.13-14.26.49:765][387]Cmd: TRANSACTION UNDO
+[2019.12.13-14.26.49:765][387]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.13-14.26.49:957][408]Cmd: TRANSACTION UNDO
+[2019.12.13-14.26.49:957][408]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.13-14.26.51:382][579]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.12.13-14.26.56:331][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.27.10:574][842]LogSlate: Window 'Plugins' being destroyed
+[2019.12.13-14.27.10:579][842]LogSlate: Window 'Plugins' being destroyed
+[2019.12.13-14.27.10:579][842]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.12.13-14.27.15:582][158]LogSlate: Window 'About Unreal Editor' being destroyed
+[2019.12.13-14.31.36:198][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.31.38:362][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.13-14.31.39:549][153]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2019.12.13-14.31.41:987][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.32.07:837][125]LogVSAccessor: Warning: Couldn't goto line number '1' in 'F:/unreal engine 2.23/UE_4.23/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h'
+[2019.12.13-14.33.14:032][324]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={B57ED4ED-4866-374A-0FD2-DF8A1416D778}
+[2019.12.13-14.34.13:891][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.12.13-14.34.13:893][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Autosaves/Game/NewMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.13-14.34.14:018][503]LogSavePackage: Moving 'C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/NewMap_Auto17246DBD5424FA5D033030C961F4264A9.tmp' to 'C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/Autosaves/Game/NewMap_Auto1.umap'
+[2019.12.13-14.34.14:022][503]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.176
+[2019.12.13-14.34.14:022][503]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.176
+[2019.12.13-14.47.48:966][464]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.13-14.47.49:324][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.12.13-14.47.51:529][464]LogSlate: Window 'Save Content' being destroyed
+[2019.12.13-14.47.51:553][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.13-14.47.51:594][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.12.13-14.47.51:721][464]LogSavePackage: Moving 'C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Saved/NewMap37EA73D942672510ACC38CBC0CD99659.tmp' to 'C:/Users/kiera/OneDrive/Desktop/VR_Museum_Project/VR_Museum/Content/NewMap.umap'
+[2019.12.13-14.47.51:732][464]LogFileHelpers: Saving map 'NewMap' took 0.180
+[2019.12.13-14.47.51:853][464]LogSlate: Window 'VR_Museum - Unreal Editor' being destroyed
+[2019.12.13-14.47.52:115][465]Cmd: QUIT_EDITOR
+[2019.12.13-14.47.52:553][465]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.13-14.47.52:580][465]LogExit: Preparing to exit.
+[2019.12.13-14.47.53:553][465]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-14.47.53:567][465]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-14.47.54:003][465]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-14.47.54:003][465]LogExit: Editor shut down
+[2019.12.13-14.47.54:003][465]LogExit: Transaction tracking system shut down
+[2019.12.13-14.47.54:044][465]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.13-14.47.56:497][465]LogExit: Object subsystem successfully closed.
+[2019.12.13-14.47.56:704][465]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.13-14.47.57:951][465]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (672)
+[2019.12.13-14.47.57:960][465]LogModuleManager: Shutting down and abandoning module NewLevelDialog (670)
+[2019.12.13-14.47.57:961][465]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2019.12.13-14.47.57:961][465]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2019.12.13-14.47.57:961][465]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2019.12.13-14.47.57:986][465]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2019.12.13-14.47.57:986][465]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2019.12.13-14.47.57:986][465]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2019.12.13-14.47.57:986][465]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.12.13-14.47.58:006][465]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.12.13-14.47.58:006][465]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.12.13-14.47.58:017][465]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.12.13-14.47.58:041][465]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.12.13-14.47.58:041][465]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.12.13-14.47.58:041][465]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.12.13-14.47.58:041][465]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.12.13-14.47.58:049][465]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.12.13-14.47.58:049][465]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.12.13-14.47.58:049][465]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.12.13-14.47.58:061][465]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.12.13-14.47.58:067][465]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.12.13-14.47.58:067][465]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.12.13-14.47.58:067][465]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.12.13-14.47.58:081][465]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.12.13-14.47.58:098][465]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.12.13-14.47.58:142][465]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.12.13-14.47.58:142][465]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.12.13-14.47.58:154][465]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.12.13-14.47.58:171][465]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.12.13-14.47.58:171][465]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.12.13-14.47.58:171][465]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.12.13-14.47.58:171][465]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.12.13-14.47.58:171][465]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.12.13-14.47.58:180][465]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.12.13-14.47.58:208][465]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.12.13-14.47.58:238][465]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.12.13-14.47.58:238][465]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.12.13-14.47.58:238][465]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.12.13-14.47.58:238][465]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.12.13-14.47.58:238][465]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.12.13-14.47.58:238][465]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.12.13-14.47.58:238][465]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.12.13-14.47.58:238][465]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.12.13-14.47.58:238][465]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.12.13-14.47.58:238][465]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.12.13-14.47.58:238][465]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.12.13-14.47.58:238][465]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.12.13-14.47.58:238][465]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.12.13-14.47.58:238][465]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.12.13-14.47.58:238][465]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.12.13-14.47.58:238][465]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.12.13-14.47.58:252][465]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.12.13-14.47.58:252][465]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.12.13-14.47.58:252][465]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.12.13-14.47.58:287][465]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.12.13-14.47.58:309][465]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.12.13-14.47.58:331][465]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.12.13-14.47.58:331][465]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.12.13-14.47.58:349][465]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.12.13-14.47.58:349][465]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.12.13-14.47.58:360][465]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.12.13-14.47.58:360][465]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.12.13-14.47.58:360][465]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.12.13-14.47.59:440][465]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.12.13-14.47.59:440][465]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.12.13-14.47.59:440][465]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.12.13-14.47.59:440][465]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.12.13-14.47.59:440][465]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.12.13-14.47.59:440][465]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.12.13-14.47.59:450][465]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.12.13-14.47.59:470][465]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.12.13-14.47.59:479][465]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.12.13-14.47.59:498][465]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.12.13-14.47.59:498][465]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.12.13-14.47.59:509][465]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.12.13-14.47.59:516][465]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.12.13-14.47.59:523][465]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.12.13-14.47.59:523][465]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.12.13-14.47.59:523][465]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.12.13-14.47.59:523][465]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.12.13-14.47.59:523][465]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.12.13-14.47.59:543][465]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.12.13-14.47.59:555][465]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.12.13-14.47.59:564][465]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.12.13-14.47.59:573][465]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.12.13-14.47.59:587][465]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.12.13-14.47.59:640][465]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.12.13-14.47.59:646][465]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.12.13-14.47.59:661][465]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.12.13-14.47.59:680][465]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.12.13-14.47.59:680][465]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.12.13-14.47.59:680][465]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.12.13-14.47.59:680][465]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.12.13-14.47.59:692][465]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.12.13-14.47.59:715][465]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.12.13-14.47.59:716][465]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.12.13-14.47.59:716][465]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.12.13-14.47.59:736][465]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.12.13-14.47.59:748][465]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.12.13-14.47.59:771][465]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.12.13-14.47.59:771][465]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.12.13-14.47.59:771][465]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.12.13-14.47.59:771][465]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.12.13-14.47.59:781][465]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.12.13-14.47.59:800][465]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.12.13-14.47.59:800][465]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.12.13-14.47.59:813][465]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.12.13-14.47.59:813][465]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.12.13-14.47.59:824][465]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.12.13-14.47.59:824][465]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.12.13-14.47.59:824][465]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.12.13-14.47.59:830][465]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.12.13-14.47.59:844][465]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.12.13-14.47.59:844][465]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.12.13-14.47.59:844][465]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.12.13-14.47.59:844][465]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.12.13-14.47.59:844][465]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.12.13-14.47.59:844][465]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.12.13-14.47.59:856][465]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.12.13-14.47.59:878][465]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.12.13-14.47.59:878][465]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.12.13-14.47.59:878][465]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.12.13-14.47.59:914][465]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.12.13-14.47.59:918][465]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.12.13-14.48.00:018][465]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.12.13-14.48.00:053][465]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.12.13-14.48.00:053][465]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.12.13-14.48.00:053][465]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.12.13-14.48.00:053][465]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.12.13-14.48.00:062][465]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.12.13-14.48.00:069][465]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.12.13-14.48.00:069][465]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.12.13-14.48.00:069][465]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.12.13-14.48.00:080][465]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.12.13-14.48.00:080][465]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.12.13-14.48.00:080][465]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.12.13-14.48.00:080][465]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.12.13-14.48.00:080][465]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.12.13-14.48.00:080][465]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.12.13-14.48.00:080][465]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.12.13-14.48.00:080][465]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.12.13-14.48.00:090][465]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.12.13-14.48.00:102][465]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.12.13-14.48.00:102][465]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.12.13-14.48.00:115][465]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.12.13-14.48.00:115][465]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.12.13-14.48.00:115][465]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.12.13-14.48.00:126][465]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.12.13-14.48.00:126][465]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.12.13-14.48.00:126][465]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.12.13-14.48.00:126][465]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.12.13-14.48.00:135][465]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.12.13-14.48.00:135][465]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.12.13-14.48.00:135][465]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.12.13-14.48.00:141][465]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.12.13-14.48.00:141][465]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.12.13-14.48.00:141][465]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.12.13-14.48.00:141][465]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.12.13-14.48.00:141][465]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.12.13-14.48.00:141][465]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.12.13-14.48.00:141][465]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.12.13-14.48.00:141][465]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.12.13-14.48.00:168][465]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.12.13-14.48.00:179][465]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.12.13-14.48.00:197][465]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.12.13-14.48.00:198][465]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.12.13-14.48.00:198][465]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.12.13-14.48.00:198][465]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.12.13-14.48.00:198][465]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.12.13-14.48.00:198][465]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.12.13-14.48.00:198][465]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.12.13-14.48.00:208][465]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.12.13-14.48.00:224][465]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.12.13-14.48.00:247][465]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.12.13-14.48.00:247][465]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.12.13-14.48.00:247][465]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.12.13-14.48.00:247][465]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.12.13-14.48.00:247][465]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.12.13-14.48.00:247][465]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.12.13-14.48.00:247][465]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.12.13-14.48.00:247][465]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.12.13-14.48.00:247][465]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.12.13-14.48.00:269][465]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.12.13-14.48.00:269][465]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.12.13-14.48.00:269][465]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.12.13-14.48.00:269][465]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.12.13-14.48.00:269][465]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.12.13-14.48.00:269][465]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.12.13-14.48.00:370][465]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.12.13-14.48.00:480][465]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.12.13-14.48.00:480][465]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.12.13-14.48.00:480][465]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.12.13-14.48.00:488][465]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.12.13-14.48.00:488][465]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.12.13-14.48.00:488][465]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.13-14.48.00:488][465]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.12.13-14.48.00:488][465]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.12.13-14.48.00:488][465]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.12.13-14.48.00:494][465]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.12.13-14.48.00:494][465]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.12.13-14.48.00:494][465]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.12.13-14.48.00:494][465]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.12.13-14.48.00:510][465]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.12.13-14.48.00:525][465]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.12.13-14.48.00:540][465]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.12.13-14.48.00:540][465]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.12.13-14.48.00:540][465]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.12.13-14.48.00:548][465]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.12.13-14.48.00:549][465]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.12.13-14.48.00:557][465]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.13-14.48.00:557][465]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.13-14.48.00:557][465]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.13-14.48.00:561][465]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.13-14.48.00:565][465]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.13-14.48.00:569][465]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.13-14.48.00:569][465]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.13-14.48.00:569][465]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.13-14.48.00:569][465]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.13-14.48.00:585][465]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.13-14.48.00:585][465]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.13-14.48.00:585][465]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.13-14.48.00:585][465]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.13-14.48.00:599][465]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.13-14.48.00:620][465]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.13-14.48.00:620][465]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.13-14.48.00:644][465]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.13-14.48.00:664][465]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.13-14.48.00:698][465]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.13-14.48.00:698][465]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.13-14.48.00:708][465]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.13-14.48.00:727][465]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.13-14.48.00:766][465]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.13-14.48.00:766][465]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.13-14.48.00:784][465]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.13-14.48.00:784][465]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.13-14.48.00:784][465]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.13-14.48.00:785][465]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.13-14.48.00:792][465]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.13-14.48.00:792][465]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.13-14.48.00:792][465]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.13-14.48.00:792][465]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.13-14.48.00:792][465]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.13-14.48.00:792][465]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.13-14.48.00:792][465]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.13-14.48.00:792][465]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.13-14.48.00:792][465]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.13-14.48.00:800][465]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.13-14.48.00:800][465]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.13-14.48.00:819][465]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.13-14.48.00:840][465]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.13-14.48.00:855][465]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.13-14.48.00:859][465]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.13-14.48.00:859][465]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.13-14.48.00:946][465]LogDerivedDataCache: Shutdown
+[2019.12.13-14.48.00:946][465]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.13-14.48.00:985][465]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.13-14.48.00:993][465]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.13-14.48.01:002][465]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.13-14.48.01:008][465]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.13-14.48.01:014][465]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.13-14.48.01:034][465]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.13-14.48.01:050][465]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.13-14.48.01:050][465]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.13-14.48.01:050][465]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.13-14.48.01:050][465]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.13-14.48.01:058][465]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.13-14.48.01:058][465]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.13-14.48.01:058][465]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.13-14.48.01:058][465]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.13-14.48.01:065][465]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.13-14.48.01:065][465]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.13-14.48.01:065][465]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.13-14.48.01:074][465]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.13-14.48.01:074][465]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.13-14.48.01:078][465]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.13-14.48.01:085][465]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.13-14.48.01:086][465]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.13-14.48.01:086][465]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.13-14.48.01:086][465]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.13-14.48.01:087][465]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.13-14.48.01:087][465]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.13-14.48.01:093][465]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.13-14.48.01:093][465]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.13-14.48.01:093][465]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.13-14.48.01:093][465]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.13-14.48.01:093][465]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.13-14.48.01:093][465]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.13-14.48.01:093][465]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.13-14.48.01:093][465]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.13-14.48.01:093][465]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.13-14.48.01:093][465]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.13-14.48.01:093][465]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.13-14.48.01:093][465]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.13-14.48.01:093][465]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.13-14.48.01:093][465]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.13-14.48.01:093][465]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.13-14.48.01:102][465]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.13-14.48.01:110][465]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.13-14.48.01:110][465]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.13-14.48.01:110][465]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.13-14.48.01:110][465]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.13-14.48.01:110][465]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.13-14.48.01:110][465]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.13-14.48.01:153][465]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.13-14.48.01:170][465]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.13-14.48.01:242][465]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.13-14.48.01:242][465]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.13-14.48.01:242][465]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B71DC2681-483F-6C8D-483B-7E850AFBDBFB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=70706d1945ca0aa937975db80d164744%7C290ac5876a4f495e91b53db10aacd6bd%7Cb9e11ad9-65ec-42d4-b3b1-30bbddb18790&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.13-14.48.01:254][465]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.13-14.48.01:255][465]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.13-14.48.01:271][465]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.13-14.48.01:273][465]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.13-14.48.01:279][465]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.13-14.48.01:280][465]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.13-14.48.01:280][465]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.13-14.48.01:291][465]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.13-14.48.01:291][465]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.13-14.48.01:301][465]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.13-14.48.01:342][465]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.13-14.48.01:356][465]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.13-14.48.01:356][465]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.13-14.48.01:356][465]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.13-14.48.01:356][465]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.13-14.48.01:369][465]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.13-14.48.01:381][465]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.13-14.48.01:381][465]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.13-14.48.01:391][465]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.13-14.48.01:391][465]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.13-14.48.01:391][465]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.13-14.48.01:391][465]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.13-14.48.01:398][465]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.13-14.48.01:399][465]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.13-14.48.01:409][465]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.13-14.48.01:409][465]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.13-14.48.01:429][465]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.13-14.48.01:436][465]LogD3D11RHI: Shutdown
+[2019.12.13-14.48.01:443][465]LogD3D11RHI: CleanupD3DDevice
+[2019.12.13-14.48.01:514][465]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.13-14.48.01:518][465]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.13-14.48.01:518][465]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.13-14.48.01:613][465]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.13-14.48.01:652][465]LogExit: Exiting.
+[2019.12.13-14.48.01:668][465]Log file closed, 12/13/19 14:48:01
